@@ -7,7 +7,7 @@ export default async (style, anybarPort = 1738, denoPort = 8371) => {
 
 	const encoder = new TextEncoder();
 
-	const message = encoder.encode(status);
+	const message = encoder.encode(style);
 
 	await connection.send(message, { transport: "udp", port: anybarPort });
 
