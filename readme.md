@@ -5,7 +5,7 @@ Control [AnyBar](https://github.com/tonsky/AnyBar)
 ## Usage
 
 ```js
-import anybar from "https://x.nest.land/anybar@v0.1.0/module.js";
+import anybar from "https://x.nest.land/anybar@0.1.0/module.js";
 
 anybar("purple");
 // The Anybar menu bar icon turned purple
