@@ -35,7 +35,7 @@ The UDP port AnyBar runs on.
 
 Type: `number`
 
-Default: `1738`
+Default: `8371`
 
 The port this module uses to communicate with AnyBar.
 
