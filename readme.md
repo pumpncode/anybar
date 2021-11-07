@@ -26,6 +26,7 @@ The [style](https://github.com/tonsky/AnyBar#usage) of the dot you want AnyBar t
 #### anybarPort
 
 Type: `number`
+
 Default: `1738`
 
 The UDP port AnyBar runs on.
@@ -33,6 +34,7 @@ The UDP port AnyBar runs on.
 #### denoPort
 
 Type: `number`
+
 Default: `1738`
 
 The port this module uses to communicate with AnyBar.
