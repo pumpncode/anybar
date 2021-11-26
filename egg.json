@@ -10,7 +10,8 @@
 	"unlisted": false,
 	"files": [
 		"./module.js",
-		"./readme.md"
+		"./readme.md",
+		"./license.md"
 	],
 	"ignore": [],
 	"checkFormat": false,
