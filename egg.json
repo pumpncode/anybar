@@ -4,7 +4,7 @@
 	"entry": "./module.js",
 	"description": "Control AnyBar",
 	"homepage": "https://github.com/pumpncode/anybar",
-	"version": "0.1.3",
+	"version": "1.0.0",
 	"releaseType": null,
 	"unstable": false,
 	"unlisted": false,
