@@ -2,6 +2,9 @@
 
 Control [AnyBar](https://github.com/tonsky/AnyBar)
 
+## Note
+Requires the `--unstable` deno flag to be used.
+
 ## Usage
 
 ```js
